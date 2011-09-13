@@ -8,6 +8,6 @@ Further, we would also be working on figuring out what sort of software infrastr
 
 Maybe even a custom software platform, with a stripped down version of Linux running the .NET stack. 
 
-Please feel free to join this project, or contact us with your views - thewebmobileinc@gmail.com
+Please feel free to join this project, or contact us with your views - thewebmobileinc@gmail.com OR rudimk.amazon@gmail.com
 
 
